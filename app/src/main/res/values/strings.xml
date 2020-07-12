@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">contact_us</string>
+    <string name="Password">PasswordID</string>
+    <string name="sendMess">send</string>
+    <string name="password_ID">Password</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email_address">Email address</string>
+    <string name="feedback">Feedback</string>
+    <string name="customer_id">Customer Id</string>
+    <string name="contact_form">Contact Form</string>
+    <string name="references">References</string>
+    <string name="cancel">Cancel</string>
+    <string name="imag">imag</string>
+    <string name="customer_name">Customer Name</string>
+</resources>
